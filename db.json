@@ -10,6 +10,6 @@
     }
   ],
   "instruments": {
-    "data": [ "mastercard", "visa" ]
+    "data": [ "mastercard", "visa", "amex" ]
   }
 }
